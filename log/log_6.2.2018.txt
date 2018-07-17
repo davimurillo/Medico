@@ -1,0 +1,540 @@
+Fecha Acceso:February 6, 2018, 7:49 pm
+Attempt: Failed
+User: admin
+-------------------------
+PHP_SELF => /modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE
+SERVER_ADDR => 192.99.196.245
+SERVER_NAME => drheiropinto.com
+SERVER_SOFTWARE => Apache
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => POST
+REQUEST_TIME => 1517960945
+REQUEST_TIME_FLOAT => 1517960945.121
+QUERY_STRING => 
+DOCUMENT_ROOT => /home/drheiro1/public_html
+HTTP_ACCEPT => text/html, */*; q=0.01
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES,es;q=0.9
+HTTP_CONNECTION => keep-alive
+HTTP_HOST => drheiropinto.com
+HTTP_REFERER => http://drheiropinto.com/index.php
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+HTTPS
+REMOTE_ADDR => 201.208.211.171
+REMOTE_HOST
+REMOTE_PORT => 64307
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => /home/drheiro1/public_html/modulos/login.php
+SERVER_ADMIN => webmaster@drheiropinto.com
+SERVER_PORT => 80
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /modulos/login.php
+REQUEST_URI => /modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+
+Fecha Acceso:February 6, 2018, 7:49 pm
+Attempt: Failed
+User: admin
+-------------------------
+PHP_SELF => /modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE
+SERVER_ADDR => 192.99.196.245
+SERVER_NAME => drheiropinto.com
+SERVER_SOFTWARE => Apache
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => POST
+REQUEST_TIME => 1517960945
+REQUEST_TIME_FLOAT => 1517960945.4026
+QUERY_STRING => 
+DOCUMENT_ROOT => /home/drheiro1/public_html
+HTTP_ACCEPT => text/html, */*; q=0.01
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES,es;q=0.9
+HTTP_CONNECTION => keep-alive
+HTTP_HOST => drheiropinto.com
+HTTP_REFERER => http://drheiropinto.com/index.php
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+HTTPS
+REMOTE_ADDR => 201.208.211.171
+REMOTE_HOST
+REMOTE_PORT => 64307
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => /home/drheiro1/public_html/modulos/login.php
+SERVER_ADMIN => webmaster@drheiropinto.com
+SERVER_PORT => 80
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /modulos/login.php
+REQUEST_URI => /modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+
+Fecha Acceso:February 6, 2018, 7:49 pm
+Attempt: Failed
+User: admin
+-------------------------
+PHP_SELF => /modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE
+SERVER_ADDR => 192.99.196.245
+SERVER_NAME => drheiropinto.com
+SERVER_SOFTWARE => Apache
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => POST
+REQUEST_TIME => 1517960945
+REQUEST_TIME_FLOAT => 1517960945.6805
+QUERY_STRING => 
+DOCUMENT_ROOT => /home/drheiro1/public_html
+HTTP_ACCEPT => text/html, */*; q=0.01
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES,es;q=0.9
+HTTP_CONNECTION => keep-alive
+HTTP_HOST => drheiropinto.com
+HTTP_REFERER => http://drheiropinto.com/index.php
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+HTTPS
+REMOTE_ADDR => 201.208.211.171
+REMOTE_HOST
+REMOTE_PORT => 64307
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => /home/drheiro1/public_html/modulos/login.php
+SERVER_ADMIN => webmaster@drheiropinto.com
+SERVER_PORT => 80
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /modulos/login.php
+REQUEST_URI => /modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+
+Fecha Acceso:February 6, 2018, 7:49 pm
+Attempt: Failed
+User: admin
+-------------------------
+PHP_SELF => /modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE
+SERVER_ADDR => 192.99.196.245
+SERVER_NAME => drheiropinto.com
+SERVER_SOFTWARE => Apache
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => POST
+REQUEST_TIME => 1517960945
+REQUEST_TIME_FLOAT => 1517960945.9561
+QUERY_STRING => 
+DOCUMENT_ROOT => /home/drheiro1/public_html
+HTTP_ACCEPT => text/html, */*; q=0.01
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES,es;q=0.9
+HTTP_CONNECTION => keep-alive
+HTTP_HOST => drheiropinto.com
+HTTP_REFERER => http://drheiropinto.com/index.php
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+HTTPS
+REMOTE_ADDR => 201.208.211.171
+REMOTE_HOST
+REMOTE_PORT => 64307
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => /home/drheiro1/public_html/modulos/login.php
+SERVER_ADMIN => webmaster@drheiropinto.com
+SERVER_PORT => 80
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /modulos/login.php
+REQUEST_URI => /modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+
+Fecha Acceso:February 6, 2018, 7:49 pm
+Attempt: Failed
+User: admin
+-------------------------
+PHP_SELF => /modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE
+SERVER_ADDR => 192.99.196.245
+SERVER_NAME => drheiropinto.com
+SERVER_SOFTWARE => Apache
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => POST
+REQUEST_TIME => 1517960949
+REQUEST_TIME_FLOAT => 1517960949.0607
+QUERY_STRING => 
+DOCUMENT_ROOT => /home/drheiro1/public_html
+HTTP_ACCEPT => text/html, */*; q=0.01
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES,es;q=0.9
+HTTP_CONNECTION => keep-alive
+HTTP_HOST => drheiropinto.com
+HTTP_REFERER => http://drheiropinto.com/index.php
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+HTTPS
+REMOTE_ADDR => 201.208.211.171
+REMOTE_HOST
+REMOTE_PORT => 64307
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => /home/drheiro1/public_html/modulos/login.php
+SERVER_ADMIN => webmaster@drheiropinto.com
+SERVER_PORT => 80
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /modulos/login.php
+REQUEST_URI => /modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+
+Fecha Acceso:February 6, 2018, 7:49 pm
+Attempt: Failed
+User: admin
+-------------------------
+PHP_SELF => /modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE
+SERVER_ADDR => 192.99.196.245
+SERVER_NAME => drheiropinto.com
+SERVER_SOFTWARE => Apache
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => POST
+REQUEST_TIME => 1517960949
+REQUEST_TIME_FLOAT => 1517960949.0678
+QUERY_STRING => 
+DOCUMENT_ROOT => /home/drheiro1/public_html
+HTTP_ACCEPT => text/html, */*; q=0.01
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES,es;q=0.9
+HTTP_CONNECTION => keep-alive
+HTTP_HOST => drheiropinto.com
+HTTP_REFERER => http://drheiropinto.com/index.php
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+HTTPS
+REMOTE_ADDR => 201.208.211.171
+REMOTE_HOST
+REMOTE_PORT => 64308
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => /home/drheiro1/public_html/modulos/login.php
+SERVER_ADMIN => webmaster@drheiropinto.com
+SERVER_PORT => 80
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /modulos/login.php
+REQUEST_URI => /modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+
+Fecha Acceso:February 6, 2018, 7:49 pm
+Attempt: Failed
+User: admin
+-------------------------
+PHP_SELF => /modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE
+SERVER_ADDR => 192.99.196.245
+SERVER_NAME => drheiropinto.com
+SERVER_SOFTWARE => Apache
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => POST
+REQUEST_TIME => 1517960950
+REQUEST_TIME_FLOAT => 1517960950.6368
+QUERY_STRING => 
+DOCUMENT_ROOT => /home/drheiro1/public_html
+HTTP_ACCEPT => text/html, */*; q=0.01
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES,es;q=0.9
+HTTP_CONNECTION => keep-alive
+HTTP_HOST => drheiropinto.com
+HTTP_REFERER => http://drheiropinto.com/index.php
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+HTTPS
+REMOTE_ADDR => 201.208.211.171
+REMOTE_HOST
+REMOTE_PORT => 64308
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => /home/drheiro1/public_html/modulos/login.php
+SERVER_ADMIN => webmaster@drheiropinto.com
+SERVER_PORT => 80
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /modulos/login.php
+REQUEST_URI => /modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+
+Fecha Acceso:February 6, 2018, 7:49 pm
+Attempt: Failed
+User: admin
+-------------------------
+PHP_SELF => /modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE
+SERVER_ADDR => 192.99.196.245
+SERVER_NAME => drheiropinto.com
+SERVER_SOFTWARE => Apache
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => POST
+REQUEST_TIME => 1517960950
+REQUEST_TIME_FLOAT => 1517960950.647
+QUERY_STRING => 
+DOCUMENT_ROOT => /home/drheiro1/public_html
+HTTP_ACCEPT => text/html, */*; q=0.01
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES,es;q=0.9
+HTTP_CONNECTION => keep-alive
+HTTP_HOST => drheiropinto.com
+HTTP_REFERER => http://drheiropinto.com/index.php
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+HTTPS
+REMOTE_ADDR => 201.208.211.171
+REMOTE_HOST
+REMOTE_PORT => 64307
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => /home/drheiro1/public_html/modulos/login.php
+SERVER_ADMIN => webmaster@drheiropinto.com
+SERVER_PORT => 80
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /modulos/login.php
+REQUEST_URI => /modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+
+Fecha Acceso:February 6, 2018, 7:49 pm
+Attempt: Failed
+User: admin
+-------------------------
+PHP_SELF => /modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE
+SERVER_ADDR => 192.99.196.245
+SERVER_NAME => drheiropinto.com
+SERVER_SOFTWARE => Apache
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => POST
+REQUEST_TIME => 1517960957
+REQUEST_TIME_FLOAT => 1517960957.9689
+QUERY_STRING => 
+DOCUMENT_ROOT => /home/drheiro1/public_html
+HTTP_ACCEPT => text/html, */*; q=0.01
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES,es;q=0.9
+HTTP_CONNECTION => keep-alive
+HTTP_HOST => drheiropinto.com
+HTTP_REFERER => http://drheiropinto.com/index.php
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+HTTPS
+REMOTE_ADDR => 201.208.211.171
+REMOTE_HOST
+REMOTE_PORT => 64306
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => /home/drheiro1/public_html/modulos/login.php
+SERVER_ADMIN => webmaster@drheiropinto.com
+SERVER_PORT => 80
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /modulos/login.php
+REQUEST_URI => /modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+
+Fecha Acceso:February 6, 2018, 7:49 pm
+Attempt: Failed
+User: admin
+-------------------------
+PHP_SELF => /modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE
+SERVER_ADDR => 192.99.196.245
+SERVER_NAME => drheiropinto.com
+SERVER_SOFTWARE => Apache
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => POST
+REQUEST_TIME => 1517960957
+REQUEST_TIME_FLOAT => 1517960957.9758
+QUERY_STRING => 
+DOCUMENT_ROOT => /home/drheiro1/public_html
+HTTP_ACCEPT => text/html, */*; q=0.01
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES,es;q=0.9
+HTTP_CONNECTION => keep-alive
+HTTP_HOST => drheiropinto.com
+HTTP_REFERER => http://drheiropinto.com/index.php
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+HTTPS
+REMOTE_ADDR => 201.208.211.171
+REMOTE_HOST
+REMOTE_PORT => 64305
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => /home/drheiro1/public_html/modulos/login.php
+SERVER_ADMIN => webmaster@drheiropinto.com
+SERVER_PORT => 80
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /modulos/login.php
+REQUEST_URI => /modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+
+Fecha Acceso:February 6, 2018, 7:49 pm
+Attempt: Failed
+User: admin
+-------------------------
+PHP_SELF => /modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE
+SERVER_ADDR => 192.99.196.245
+SERVER_NAME => drheiropinto.com
+SERVER_SOFTWARE => Apache
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => POST
+REQUEST_TIME => 1517960959
+REQUEST_TIME_FLOAT => 1517960959.9426
+QUERY_STRING => 
+DOCUMENT_ROOT => /home/drheiro1/public_html
+HTTP_ACCEPT => text/html, */*; q=0.01
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES,es;q=0.9
+HTTP_CONNECTION => keep-alive
+HTTP_HOST => drheiropinto.com
+HTTP_REFERER => http://drheiropinto.com/index.php
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+HTTPS
+REMOTE_ADDR => 201.208.211.171
+REMOTE_HOST
+REMOTE_PORT => 64305
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => /home/drheiro1/public_html/modulos/login.php
+SERVER_ADMIN => webmaster@drheiropinto.com
+SERVER_PORT => 80
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /modulos/login.php
+REQUEST_URI => /modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+
+Fecha Acceso:February 6, 2018, 7:49 pm
+Attempt: Failed
+User: admin
+-------------------------
+PHP_SELF => /modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE
+SERVER_ADDR => 192.99.196.245
+SERVER_NAME => drheiropinto.com
+SERVER_SOFTWARE => Apache
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => POST
+REQUEST_TIME => 1517960959
+REQUEST_TIME_FLOAT => 1517960959.9495
+QUERY_STRING => 
+DOCUMENT_ROOT => /home/drheiro1/public_html
+HTTP_ACCEPT => text/html, */*; q=0.01
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES,es;q=0.9
+HTTP_CONNECTION => keep-alive
+HTTP_HOST => drheiropinto.com
+HTTP_REFERER => http://drheiropinto.com/index.php
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+HTTPS
+REMOTE_ADDR => 201.208.211.171
+REMOTE_HOST
+REMOTE_PORT => 64306
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => /home/drheiro1/public_html/modulos/login.php
+SERVER_ADMIN => webmaster@drheiropinto.com
+SERVER_PORT => 80
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /modulos/login.php
+REQUEST_URI => /modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+

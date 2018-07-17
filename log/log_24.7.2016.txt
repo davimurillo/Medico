@@ -1,0 +1,270 @@
+Fecha Acceso:July 24, 2016, 9:37 pm
+Attempt: Failed
+User: davidmurillo@gmail.com
+-------------------------
+PHP_SELF => /HEIRO_PINTO/Rex/modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE => CGI/1.1
+SERVER_ADDR => ::1
+SERVER_NAME => localhost
+SERVER_SOFTWARE => Apache/2.4.6 (Win32) PHP/5.4.17
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => POST
+REQUEST_TIME => 1469412467
+REQUEST_TIME_FLOAT => 1469412467.72
+QUERY_STRING => 
+DOCUMENT_ROOT => C:/Users/jadmin/Desktop/davi/USBWebserver v8.6/root
+HTTP_ACCEPT => text/html, */*; q=0.01
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3
+HTTP_CONNECTION => keep-alive
+HTTP_HOST => localhost
+HTTP_REFERER => http://localhost/HEIRO_PINTO/Rex/
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 6.1; rv:47.0) Gecko/20100101 Firefox/47.0
+HTTPS
+REMOTE_ADDR => ::1
+REMOTE_HOST
+REMOTE_PORT => 54108
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => C:/Users/jadmin/Desktop/davi/USBWebserver v8.6/root/HEIRO_PINTO/Rex/modulos/login.php
+SERVER_ADMIN => mail@localhost
+SERVER_PORT => 80
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /HEIRO_PINTO/Rex/modulos/login.php
+REQUEST_URI => /HEIRO_PINTO/Rex/modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+
+Fecha Acceso:July 24, 2016, 9:38 pm
+Attempt: Failed
+User: davidmurillo@gmail.com
+-------------------------
+PHP_SELF => /HEIRO_PINTO/Rex/modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE => CGI/1.1
+SERVER_ADDR => ::1
+SERVER_NAME => localhost
+SERVER_SOFTWARE => Apache/2.4.6 (Win32) PHP/5.4.17
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => POST
+REQUEST_TIME => 1469412480
+REQUEST_TIME_FLOAT => 1469412480.804
+QUERY_STRING => 
+DOCUMENT_ROOT => C:/Users/jadmin/Desktop/davi/USBWebserver v8.6/root
+HTTP_ACCEPT => text/html, */*; q=0.01
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3
+HTTP_CONNECTION => keep-alive
+HTTP_HOST => localhost
+HTTP_REFERER => http://localhost/HEIRO_PINTO/Rex/
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 6.1; rv:47.0) Gecko/20100101 Firefox/47.0
+HTTPS
+REMOTE_ADDR => ::1
+REMOTE_HOST
+REMOTE_PORT => 54110
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => C:/Users/jadmin/Desktop/davi/USBWebserver v8.6/root/HEIRO_PINTO/Rex/modulos/login.php
+SERVER_ADMIN => mail@localhost
+SERVER_PORT => 80
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /HEIRO_PINTO/Rex/modulos/login.php
+REQUEST_URI => /HEIRO_PINTO/Rex/modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+
+Fecha Acceso:July 24, 2016, 9:38 pm
+Attempt: Failed
+User: davidmur
+-------------------------
+PHP_SELF => /HEIRO_PINTO/Rex/modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE => CGI/1.1
+SERVER_ADDR => ::1
+SERVER_NAME => localhost
+SERVER_SOFTWARE => Apache/2.4.6 (Win32) PHP/5.4.17
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => POST
+REQUEST_TIME => 1469412493
+REQUEST_TIME_FLOAT => 1469412493.425
+QUERY_STRING => 
+DOCUMENT_ROOT => C:/Users/jadmin/Desktop/davi/USBWebserver v8.6/root
+HTTP_ACCEPT => text/html, */*; q=0.01
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3
+HTTP_CONNECTION => keep-alive
+HTTP_HOST => localhost
+HTTP_REFERER => http://localhost/HEIRO_PINTO/Rex/
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 6.1; rv:47.0) Gecko/20100101 Firefox/47.0
+HTTPS
+REMOTE_ADDR => ::1
+REMOTE_HOST
+REMOTE_PORT => 54112
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => C:/Users/jadmin/Desktop/davi/USBWebserver v8.6/root/HEIRO_PINTO/Rex/modulos/login.php
+SERVER_ADMIN => mail@localhost
+SERVER_PORT => 80
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /HEIRO_PINTO/Rex/modulos/login.php
+REQUEST_URI => /HEIRO_PINTO/Rex/modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+
+Fecha Acceso:July 24, 2016, 9:38 pm
+Attempt: Failed
+User: davimur
+-------------------------
+PHP_SELF => /HEIRO_PINTO/Rex/modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE => CGI/1.1
+SERVER_ADDR => ::1
+SERVER_NAME => localhost
+SERVER_SOFTWARE => Apache/2.4.6 (Win32) PHP/5.4.17
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => POST
+REQUEST_TIME => 1469412497
+REQUEST_TIME_FLOAT => 1469412497.757
+QUERY_STRING => 
+DOCUMENT_ROOT => C:/Users/jadmin/Desktop/davi/USBWebserver v8.6/root
+HTTP_ACCEPT => text/html, */*; q=0.01
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3
+HTTP_CONNECTION => keep-alive
+HTTP_HOST => localhost
+HTTP_REFERER => http://localhost/HEIRO_PINTO/Rex/
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 6.1; rv:47.0) Gecko/20100101 Firefox/47.0
+HTTPS
+REMOTE_ADDR => ::1
+REMOTE_HOST
+REMOTE_PORT => 54112
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => C:/Users/jadmin/Desktop/davi/USBWebserver v8.6/root/HEIRO_PINTO/Rex/modulos/login.php
+SERVER_ADMIN => mail@localhost
+SERVER_PORT => 80
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /HEIRO_PINTO/Rex/modulos/login.php
+REQUEST_URI => /HEIRO_PINTO/Rex/modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+
+Fecha Acceso:July 24, 2016, 9:38 pm
+Attempt: Failed
+User: davidmur
+-------------------------
+PHP_SELF => /HEIRO_PINTO/Rex/modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE => CGI/1.1
+SERVER_ADDR => ::1
+SERVER_NAME => localhost
+SERVER_SOFTWARE => Apache/2.4.6 (Win32) PHP/5.4.17
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => POST
+REQUEST_TIME => 1469412509
+REQUEST_TIME_FLOAT => 1469412509.055
+QUERY_STRING => 
+DOCUMENT_ROOT => C:/Users/jadmin/Desktop/davi/USBWebserver v8.6/root
+HTTP_ACCEPT => text/html, */*; q=0.01
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3
+HTTP_CONNECTION => keep-alive
+HTTP_HOST => localhost
+HTTP_REFERER => http://localhost/HEIRO_PINTO/Rex/
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 6.1; rv:47.0) Gecko/20100101 Firefox/47.0
+HTTPS
+REMOTE_ADDR => ::1
+REMOTE_HOST
+REMOTE_PORT => 54115
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => C:/Users/jadmin/Desktop/davi/USBWebserver v8.6/root/HEIRO_PINTO/Rex/modulos/login.php
+SERVER_ADMIN => mail@localhost
+SERVER_PORT => 80
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /HEIRO_PINTO/Rex/modulos/login.php
+REQUEST_URI => /HEIRO_PINTO/Rex/modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+
+Fecha Acceso:July 24, 2016, 9:40 pm
+Attempt: Success
+User: davimurillo@gmail.com
+-------------------------
+PHP_SELF => /HEIRO_PINTO/Rex/modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE => CGI/1.1
+SERVER_ADDR => ::1
+SERVER_NAME => localhost
+SERVER_SOFTWARE => Apache/2.4.6 (Win32) PHP/5.4.17
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => POST
+REQUEST_TIME => 1469412628
+REQUEST_TIME_FLOAT => 1469412628.174
+QUERY_STRING => 
+DOCUMENT_ROOT => C:/Users/jadmin/Desktop/davi/USBWebserver v8.6/root
+HTTP_ACCEPT => text/html, */*; q=0.01
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3
+HTTP_CONNECTION => keep-alive
+HTTP_HOST => localhost
+HTTP_REFERER => http://localhost/HEIRO_PINTO/Rex/
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 6.1; rv:47.0) Gecko/20100101 Firefox/47.0
+HTTPS
+REMOTE_ADDR => ::1
+REMOTE_HOST
+REMOTE_PORT => 54120
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => C:/Users/jadmin/Desktop/davi/USBWebserver v8.6/root/HEIRO_PINTO/Rex/modulos/login.php
+SERVER_ADMIN => mail@localhost
+SERVER_PORT => 80
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /HEIRO_PINTO/Rex/modulos/login.php
+REQUEST_URI => /HEIRO_PINTO/Rex/modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+

@@ -1,0 +1,540 @@
+Fecha Acceso:May 9, 2016, 8:39 am
+Attempt: Failed
+User: 
+-------------------------
+PHP_SELF => /modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE => CGI/1.1
+SERVER_ADDR => 192.168.1.98
+SERVER_NAME => apices.com.ve
+SERVER_SOFTWARE => Apache/2.4.6 (Win32) PHP/5.4.17
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => GET
+REQUEST_TIME => 1462799366
+REQUEST_TIME_FLOAT => 1462799366.466
+QUERY_STRING => 
+DOCUMENT_ROOT => C:/usbwebserver/root
+HTTP_ACCEPT => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3
+HTTP_CONNECTION => keep-alive
+HTTP_HOST => apices.com.ve:8080
+HTTP_REFERER => http://apices.com.ve:8080/modulos/modulo.php
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 6.1; rv:45.0) Gecko/20100101 Firefox/45.0
+HTTPS
+REMOTE_ADDR => 190.72.31.37
+REMOTE_HOST
+REMOTE_PORT => 49802
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => C:/usbwebserver/root/modulos/login.php
+SERVER_ADMIN => mail@localhost
+SERVER_PORT => 8080
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /modulos/login.php
+REQUEST_URI => /modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+
+Fecha Acceso:May 9, 2016, 11:06 am
+Attempt: Failed
+User: 
+-------------------------
+PHP_SELF => /modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE => CGI/1.1
+SERVER_ADDR => 192.168.1.98
+SERVER_NAME => apices.com.ve
+SERVER_SOFTWARE => Apache/2.4.6 (Win32) PHP/5.4.17
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => GET
+REQUEST_TIME => 1462808178
+REQUEST_TIME_FLOAT => 1462808178.595
+QUERY_STRING => 
+DOCUMENT_ROOT => C:/usbwebserver/root
+HTTP_ACCEPT => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3
+HTTP_CONNECTION => keep-alive
+HTTP_HOST => apices.com.ve:8080
+HTTP_REFERER => http://apices.com.ve:8080/modulos/modulo.php
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0
+HTTPS
+REMOTE_ADDR => 190.72.31.37
+REMOTE_HOST
+REMOTE_PORT => 49320
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => C:/usbwebserver/root/modulos/login.php
+SERVER_ADMIN => mail@localhost
+SERVER_PORT => 8080
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /modulos/login.php
+REQUEST_URI => /modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+
+Fecha Acceso:May 9, 2016, 7:20 pm
+Attempt: Success
+User: cracca
+-------------------------
+PHP_SELF => /modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE => CGI/1.1
+SERVER_ADDR => 192.168.1.98
+SERVER_NAME => 192.168.1.98
+SERVER_SOFTWARE => Apache/2.4.6 (Win32) PHP/5.4.17
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => POST
+REQUEST_TIME => 1462837803
+REQUEST_TIME_FLOAT => 1462837803.808
+QUERY_STRING => 
+DOCUMENT_ROOT => C:/usbwebserver/root
+HTTP_ACCEPT => text/html, */*; q=0.01
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES,es;q=0.8
+HTTP_CONNECTION => keep-alive
+HTTP_HOST => 192.168.1.98:8080
+HTTP_REFERER => http://192.168.1.98:8080/index.html
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+HTTPS
+REMOTE_ADDR => 192.168.1.98
+REMOTE_HOST
+REMOTE_PORT => 51021
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => C:/usbwebserver/root/modulos/login.php
+SERVER_ADMIN => mail@localhost
+SERVER_PORT => 8080
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /modulos/login.php
+REQUEST_URI => /modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+
+Fecha Acceso:May 9, 2016, 7:35 pm
+Attempt: Success
+User: cracca
+-------------------------
+PHP_SELF => /modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE => CGI/1.1
+SERVER_ADDR => 192.168.1.98
+SERVER_NAME => 192.168.1.98
+SERVER_SOFTWARE => Apache/2.4.6 (Win32) PHP/5.4.17
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => POST
+REQUEST_TIME => 1462838716
+REQUEST_TIME_FLOAT => 1462838716.421
+QUERY_STRING => 
+DOCUMENT_ROOT => C:/usbwebserver/root
+HTTP_ACCEPT => text/html, */*; q=0.01
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES
+HTTP_CONNECTION => Keep-Alive
+HTTP_HOST => 192.168.1.98:8080
+HTTP_REFERER => http://192.168.1.98:8080/
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+HTTPS
+REMOTE_ADDR => 192.168.1.98
+REMOTE_HOST
+REMOTE_PORT => 51306
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => C:/usbwebserver/root/modulos/login.php
+SERVER_ADMIN => mail@localhost
+SERVER_PORT => 8080
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /modulos/login.php
+REQUEST_URI => /modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+
+Fecha Acceso:May 9, 2016, 7:36 pm
+Attempt: Success
+User: asesorpresupuesto@gmail.com
+-------------------------
+PHP_SELF => /modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE => CGI/1.1
+SERVER_ADDR => 192.168.1.98
+SERVER_NAME => 192.168.1.98
+SERVER_SOFTWARE => Apache/2.4.6 (Win32) PHP/5.4.17
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => POST
+REQUEST_TIME => 1462838800
+REQUEST_TIME_FLOAT => 1462838800.682
+QUERY_STRING => 
+DOCUMENT_ROOT => C:/usbwebserver/root
+HTTP_ACCEPT => text/html, */*; q=0.01
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES,es;q=0.8
+HTTP_CONNECTION => keep-alive
+HTTP_HOST => 192.168.1.98:8080
+HTTP_REFERER => http://192.168.1.98:8080/index.html
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+HTTPS
+REMOTE_ADDR => 192.168.1.98
+REMOTE_HOST
+REMOTE_PORT => 51337
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => C:/usbwebserver/root/modulos/login.php
+SERVER_ADMIN => mail@localhost
+SERVER_PORT => 8080
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /modulos/login.php
+REQUEST_URI => /modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+
+Fecha Acceso:May 9, 2016, 8:01 pm
+Attempt: Success
+User: cracca
+-------------------------
+PHP_SELF => /modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE => CGI/1.1
+SERVER_ADDR => 192.168.1.98
+SERVER_NAME => 192.168.1.98
+SERVER_SOFTWARE => Apache/2.4.6 (Win32) PHP/5.4.17
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => POST
+REQUEST_TIME => 1462840273
+REQUEST_TIME_FLOAT => 1462840273.927
+QUERY_STRING => 
+DOCUMENT_ROOT => C:/usbwebserver/root
+HTTP_ACCEPT => text/html, */*; q=0.01
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES,es;q=0.8
+HTTP_CONNECTION => keep-alive
+HTTP_HOST => 192.168.1.98:8080
+HTTP_REFERER => http://192.168.1.98:8080/index.html
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+HTTPS
+REMOTE_ADDR => 192.168.1.98
+REMOTE_HOST
+REMOTE_PORT => 51468
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => C:/usbwebserver/root/modulos/login.php
+SERVER_ADMIN => mail@localhost
+SERVER_PORT => 8080
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /modulos/login.php
+REQUEST_URI => /modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+
+Fecha Acceso:May 9, 2016, 8:02 pm
+Attempt: Success
+User: carlosracca@gmail.com
+-------------------------
+PHP_SELF => /modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE => CGI/1.1
+SERVER_ADDR => 192.168.1.98
+SERVER_NAME => 192.168.1.98
+SERVER_SOFTWARE => Apache/2.4.6 (Win32) PHP/5.4.17
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => POST
+REQUEST_TIME => 1462840364
+REQUEST_TIME_FLOAT => 1462840364.264
+QUERY_STRING => 
+DOCUMENT_ROOT => C:/usbwebserver/root
+HTTP_ACCEPT => text/html, */*; q=0.01
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES,es;q=0.8
+HTTP_CONNECTION => keep-alive
+HTTP_HOST => 192.168.1.98:8080
+HTTP_REFERER => http://192.168.1.98:8080/index.html
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+HTTPS
+REMOTE_ADDR => 192.168.1.98
+REMOTE_HOST
+REMOTE_PORT => 51483
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => C:/usbwebserver/root/modulos/login.php
+SERVER_ADMIN => mail@localhost
+SERVER_PORT => 8080
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /modulos/login.php
+REQUEST_URI => /modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+
+Fecha Acceso:May 9, 2016, 8:03 pm
+Attempt: Success
+User: asesorpresupuesto@gmail.com
+-------------------------
+PHP_SELF => /modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE => CGI/1.1
+SERVER_ADDR => 192.168.1.98
+SERVER_NAME => 192.168.1.98
+SERVER_SOFTWARE => Apache/2.4.6 (Win32) PHP/5.4.17
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => POST
+REQUEST_TIME => 1462840396
+REQUEST_TIME_FLOAT => 1462840396.874
+QUERY_STRING => 
+DOCUMENT_ROOT => C:/usbwebserver/root
+HTTP_ACCEPT => text/html, */*; q=0.01
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES,es;q=0.8
+HTTP_CONNECTION => keep-alive
+HTTP_HOST => 192.168.1.98:8080
+HTTP_REFERER => http://192.168.1.98:8080/index.html
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+HTTPS
+REMOTE_ADDR => 192.168.1.98
+REMOTE_HOST
+REMOTE_PORT => 51493
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => C:/usbwebserver/root/modulos/login.php
+SERVER_ADMIN => mail@localhost
+SERVER_PORT => 8080
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /modulos/login.php
+REQUEST_URI => /modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+
+Fecha Acceso:May 9, 2016, 8:04 pm
+Attempt: Success
+User: carlosracca@gmail.com
+-------------------------
+PHP_SELF => /modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE => CGI/1.1
+SERVER_ADDR => 192.168.1.98
+SERVER_NAME => 192.168.1.98
+SERVER_SOFTWARE => Apache/2.4.6 (Win32) PHP/5.4.17
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => POST
+REQUEST_TIME => 1462840479
+REQUEST_TIME_FLOAT => 1462840479.78
+QUERY_STRING => 
+DOCUMENT_ROOT => C:/usbwebserver/root
+HTTP_ACCEPT => text/html, */*; q=0.01
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES,es;q=0.8
+HTTP_CONNECTION => keep-alive
+HTTP_HOST => 192.168.1.98:8080
+HTTP_REFERER => http://192.168.1.98:8080/index.html
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+HTTPS
+REMOTE_ADDR => 192.168.1.98
+REMOTE_HOST
+REMOTE_PORT => 51504
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => C:/usbwebserver/root/modulos/login.php
+SERVER_ADMIN => mail@localhost
+SERVER_PORT => 8080
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /modulos/login.php
+REQUEST_URI => /modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+
+Fecha Acceso:May 9, 2016, 8:20 pm
+Attempt: Success
+User: asesorpresupuesto@gmail.com
+-------------------------
+PHP_SELF => /modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE => CGI/1.1
+SERVER_ADDR => 192.168.1.98
+SERVER_NAME => 192.168.1.98
+SERVER_SOFTWARE => Apache/2.4.6 (Win32) PHP/5.4.17
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => POST
+REQUEST_TIME => 1462841411
+REQUEST_TIME_FLOAT => 1462841411.125
+QUERY_STRING => 
+DOCUMENT_ROOT => C:/usbwebserver/root
+HTTP_ACCEPT => text/html, */*; q=0.01
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES,es;q=0.8
+HTTP_CONNECTION => keep-alive
+HTTP_HOST => 192.168.1.98:8080
+HTTP_REFERER => http://192.168.1.98:8080/index.html
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+HTTPS
+REMOTE_ADDR => 192.168.1.98
+REMOTE_HOST
+REMOTE_PORT => 51553
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => C:/usbwebserver/root/modulos/login.php
+SERVER_ADMIN => mail@localhost
+SERVER_PORT => 8080
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /modulos/login.php
+REQUEST_URI => /modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+
+Fecha Acceso:May 9, 2016, 8:55 pm
+Attempt: Failed
+User: asesorpresupuestoi@gmail.com
+-------------------------
+PHP_SELF => /modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE => CGI/1.1
+SERVER_ADDR => 192.168.1.98
+SERVER_NAME => 192.168.1.98
+SERVER_SOFTWARE => Apache/2.4.6 (Win32) PHP/5.4.17
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => POST
+REQUEST_TIME => 1462843546
+REQUEST_TIME_FLOAT => 1462843546.077
+QUERY_STRING => 
+DOCUMENT_ROOT => C:/usbwebserver/root
+HTTP_ACCEPT => text/html, */*; q=0.01
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES
+HTTP_CONNECTION => Keep-Alive
+HTTP_HOST => 192.168.1.98:8080
+HTTP_REFERER => http://192.168.1.98:8080/index.html
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+HTTPS
+REMOTE_ADDR => 192.168.1.98
+REMOTE_HOST
+REMOTE_PORT => 51798
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => C:/usbwebserver/root/modulos/login.php
+SERVER_ADMIN => mail@localhost
+SERVER_PORT => 8080
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /modulos/login.php
+REQUEST_URI => /modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+
+Fecha Acceso:May 9, 2016, 8:55 pm
+Attempt: Success
+User: asesorpresupuesto@gmail.com
+-------------------------
+PHP_SELF => /modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE => CGI/1.1
+SERVER_ADDR => 192.168.1.98
+SERVER_NAME => 192.168.1.98
+SERVER_SOFTWARE => Apache/2.4.6 (Win32) PHP/5.4.17
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => POST
+REQUEST_TIME => 1462843556
+REQUEST_TIME_FLOAT => 1462843556.509
+QUERY_STRING => 
+DOCUMENT_ROOT => C:/usbwebserver/root
+HTTP_ACCEPT => text/html, */*; q=0.01
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES
+HTTP_CONNECTION => Keep-Alive
+HTTP_HOST => 192.168.1.98:8080
+HTTP_REFERER => http://192.168.1.98:8080/index.html
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+HTTPS
+REMOTE_ADDR => 192.168.1.98
+REMOTE_HOST
+REMOTE_PORT => 51800
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => C:/usbwebserver/root/modulos/login.php
+SERVER_ADMIN => mail@localhost
+SERVER_PORT => 8080
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /modulos/login.php
+REQUEST_URI => /modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+

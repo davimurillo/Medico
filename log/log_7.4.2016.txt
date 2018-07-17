@@ -1,0 +1,225 @@
+Fecha Acceso:April 7, 2016, 2:01 am
+Attempt: Success
+User: davidmur
+-------------------------
+PHP_SELF => /APICES/modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE => CGI/1.1
+SERVER_ADDR => 127.0.0.1
+SERVER_NAME => localhost
+SERVER_SOFTWARE => Apache/2.4.6 (Win32) PHP/5.4.17
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => POST
+REQUEST_TIME => 1460010708
+REQUEST_TIME_FLOAT => 1460010708.329
+QUERY_STRING => 
+DOCUMENT_ROOT => C:/Users/Public/Documents/ORDEN/USBWebserver v8.6/root
+HTTP_ACCEPT => text/html, */*; q=0.01
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3
+HTTP_CONNECTION => keep-alive
+HTTP_HOST => localhost:8080
+HTTP_REFERER => http://localhost:8080/APICES/
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 6.1; rv:45.0) Gecko/20100101 Firefox/45.0
+HTTPS
+REMOTE_ADDR => 127.0.0.1
+REMOTE_HOST
+REMOTE_PORT => 51448
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => C:/Users/Public/Documents/ORDEN/USBWebserver v8.6/root/APICES/modulos/login.php
+SERVER_ADMIN => mail@localhost
+SERVER_PORT => 8080
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /APICES/modulos/login.php
+REQUEST_URI => /APICES/modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+
+Fecha Acceso:April 7, 2016, 9:29 am
+Attempt: Success
+User: davidmur
+-------------------------
+PHP_SELF => /APICES/modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE => CGI/1.1
+SERVER_ADDR => 127.0.0.1
+SERVER_NAME => localhost
+SERVER_SOFTWARE => Apache/2.4.6 (Win32) PHP/5.4.17
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => POST
+REQUEST_TIME => 1460037592
+REQUEST_TIME_FLOAT => 1460037592.859
+QUERY_STRING => 
+DOCUMENT_ROOT => C:/Users/Public/Documents/ORDEN/USBWebserver v8.6/root
+HTTP_ACCEPT => text/html, */*; q=0.01
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3
+HTTP_CONNECTION => keep-alive
+HTTP_HOST => localhost:8080
+HTTP_REFERER => http://localhost:8080/APICES/
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 6.1; rv:45.0) Gecko/20100101 Firefox/45.0
+HTTPS
+REMOTE_ADDR => 127.0.0.1
+REMOTE_HOST
+REMOTE_PORT => 49206
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => C:/Users/Public/Documents/ORDEN/USBWebserver v8.6/root/APICES/modulos/login.php
+SERVER_ADMIN => mail@localhost
+SERVER_PORT => 8080
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /APICES/modulos/login.php
+REQUEST_URI => /APICES/modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+
+Fecha Acceso:April 7, 2016, 1:37 pm
+Attempt: Success
+User: y@y.com
+-------------------------
+PHP_SELF => /APICES/modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE => CGI/1.1
+SERVER_ADDR => 192.168.1.125
+SERVER_NAME => 192.168.1.125
+SERVER_SOFTWARE => Apache/2.4.6 (Win32) PHP/5.4.17
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => POST
+REQUEST_TIME => 1460052428
+REQUEST_TIME_FLOAT => 1460052428.47
+QUERY_STRING => 
+DOCUMENT_ROOT => C:/Users/Public/Documents/ORDEN/USBWebserver v8.6/root
+HTTP_ACCEPT => text/html, */*; q=0.01
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3
+HTTP_CONNECTION => keep-alive
+HTTP_HOST => 192.168.1.125:8080
+HTTP_REFERER => http://192.168.1.125:8080/APICES/
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 6.1; rv:45.0) Gecko/20100101 Firefox/45.0
+HTTPS
+REMOTE_ADDR => 192.168.1.124
+REMOTE_HOST
+REMOTE_PORT => 56228
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => C:/Users/Public/Documents/ORDEN/USBWebserver v8.6/root/APICES/modulos/login.php
+SERVER_ADMIN => mail@localhost
+SERVER_PORT => 8080
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /APICES/modulos/login.php
+REQUEST_URI => /APICES/modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+
+Fecha Acceso:April 7, 2016, 7:54 pm
+Attempt: Success
+User: davidmur
+-------------------------
+PHP_SELF => /APICES/modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE => CGI/1.1
+SERVER_ADDR => 127.0.0.1
+SERVER_NAME => localhost
+SERVER_SOFTWARE => Apache/2.4.6 (Win32) PHP/5.4.17
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => POST
+REQUEST_TIME => 1460075064
+REQUEST_TIME_FLOAT => 1460075064.718
+QUERY_STRING => 
+DOCUMENT_ROOT => C:/Users/Public/Documents/ORDEN/USBWebserver v8.6/root
+HTTP_ACCEPT => text/html, */*; q=0.01
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3
+HTTP_CONNECTION => keep-alive
+HTTP_HOST => localhost:8080
+HTTP_REFERER => http://localhost:8080/APICES/
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 6.1; rv:45.0) Gecko/20100101 Firefox/45.0
+HTTPS
+REMOTE_ADDR => 127.0.0.1
+REMOTE_HOST
+REMOTE_PORT => 49815
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => C:/Users/Public/Documents/ORDEN/USBWebserver v8.6/root/APICES/modulos/login.php
+SERVER_ADMIN => mail@localhost
+SERVER_PORT => 8080
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /APICES/modulos/login.php
+REQUEST_URI => /APICES/modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+
+Fecha Acceso:April 7, 2016, 9:20 pm
+Attempt: Success
+User: y@y.com
+-------------------------
+PHP_SELF => /APICES/modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE => CGI/1.1
+SERVER_ADDR => 127.0.0.1
+SERVER_NAME => localhost
+SERVER_SOFTWARE => Apache/2.4.6 (Win32) PHP/5.4.17
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => POST
+REQUEST_TIME => 1460080232
+REQUEST_TIME_FLOAT => 1460080232.652
+QUERY_STRING => 
+DOCUMENT_ROOT => C:/Users/Public/Documents/ORDEN/USBWebserver v8.6/root
+HTTP_ACCEPT => text/html, */*; q=0.01
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3
+HTTP_CONNECTION => keep-alive
+HTTP_HOST => localhost:8080
+HTTP_REFERER => http://localhost:8080/APICES/index.html
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 6.1; rv:45.0) Gecko/20100101 Firefox/45.0
+HTTPS
+REMOTE_ADDR => 127.0.0.1
+REMOTE_HOST
+REMOTE_PORT => 50252
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => C:/Users/Public/Documents/ORDEN/USBWebserver v8.6/root/APICES/modulos/login.php
+SERVER_ADMIN => mail@localhost
+SERVER_PORT => 8080
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /APICES/modulos/login.php
+REQUEST_URI => /APICES/modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+

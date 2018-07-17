@@ -1,0 +1,25 @@
+- configuración
+
+	- generales
+	- salsa de operacion
+	- generales del sistema
+
+- notificaciones
+	- falta
+
+- paciente
+	- historia medica
+		- recipe
+		- compartir
+		- imprimir
+		- editar
+			- plantillas
+- mensajes
+	- falta
+
+- facturación
+	- botoneria activar
+- citas
+	- botoneria activar
+- contactar al paciente
+	- falta

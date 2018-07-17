@@ -1,0 +1,90 @@
+Fecha Acceso:March 2, 2018, 9:59 pm
+Attempt: Success
+User: davimurillo@gmail.com
+-------------------------
+PHP_SELF => /modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE
+SERVER_ADDR => 192.99.196.245
+SERVER_NAME => drheiropinto.com
+SERVER_SOFTWARE => Apache
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => POST
+REQUEST_TIME => 1520042345
+REQUEST_TIME_FLOAT => 1520042345.4104
+QUERY_STRING => 
+DOCUMENT_ROOT => /home/drheiro1/public_html
+HTTP_ACCEPT => text/html, */*; q=0.01
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES,es;q=0.9
+HTTP_CONNECTION => keep-alive
+HTTP_HOST => drheiropinto.com
+HTTP_REFERER => http://drheiropinto.com/
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+HTTPS
+REMOTE_ADDR => 181.66.227.223
+REMOTE_HOST
+REMOTE_PORT => 55436
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => /home/drheiro1/public_html/modulos/login.php
+SERVER_ADMIN => webmaster@drheiropinto.com
+SERVER_PORT => 80
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /modulos/login.php
+REQUEST_URI => /modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+
+Fecha Acceso:March 2, 2018, 9:59 pm
+Attempt: Success
+User: davimurillo@gmail.com
+-------------------------
+PHP_SELF => /modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE
+SERVER_ADDR => 192.99.196.245
+SERVER_NAME => drheiropinto.com
+SERVER_SOFTWARE => Apache
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => POST
+REQUEST_TIME => 1520042345
+REQUEST_TIME_FLOAT => 1520042345.4257
+QUERY_STRING => 
+DOCUMENT_ROOT => /home/drheiro1/public_html
+HTTP_ACCEPT => text/html, */*; q=0.01
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-ES,es;q=0.9
+HTTP_CONNECTION => keep-alive
+HTTP_HOST => drheiropinto.com
+HTTP_REFERER => http://drheiropinto.com/
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+HTTPS
+REMOTE_ADDR => 181.66.227.223
+REMOTE_HOST
+REMOTE_PORT => 55435
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => /home/drheiro1/public_html/modulos/login.php
+SERVER_ADMIN => webmaster@drheiropinto.com
+SERVER_PORT => 80
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /modulos/login.php
+REQUEST_URI => /modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+

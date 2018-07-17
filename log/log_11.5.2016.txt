@@ -1,0 +1,90 @@
+Fecha Acceso:May 11, 2016, 10:05 am
+Attempt: Failed
+User: 
+-------------------------
+PHP_SELF => /modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE => CGI/1.1
+SERVER_ADDR => 192.168.1.98
+SERVER_NAME => www.apices.com.ve
+SERVER_SOFTWARE => Apache/2.4.6 (Win32) PHP/5.4.17
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => GET
+REQUEST_TIME => 1462977339
+REQUEST_TIME_FLOAT => 1462977339.954
+QUERY_STRING => 
+DOCUMENT_ROOT => C:/usbwebserver/root
+HTTP_ACCEPT => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-MX,es-ES;q=0.8,es-AR;q=0.7,es;q=0.5,en-US;q=0.3,en;q=0.2
+HTTP_CONNECTION => keep-alive
+HTTP_HOST => www.apices.com.ve:8080
+HTTP_REFERER => http://www.apices.com.ve:8080/modulos/
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 5.1; rv:37.0) Gecko/20100101 Firefox/37.0
+HTTPS
+REMOTE_ADDR => 186.95.73.144
+REMOTE_HOST
+REMOTE_PORT => 3432
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => C:/usbwebserver/root/modulos/login.php
+SERVER_ADMIN => mail@localhost
+SERVER_PORT => 8080
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /modulos/login.php
+REQUEST_URI => /modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+
+Fecha Acceso:May 11, 2016, 10:18 am
+Attempt: Success
+User: davidmur
+-------------------------
+PHP_SELF => /modulos/login.php
+argv
+argc
+GATEWAY_INTERFACE => CGI/1.1
+SERVER_ADDR => 192.168.1.98
+SERVER_NAME => www.apices.com.ve
+SERVER_SOFTWARE => Apache/2.4.6 (Win32) PHP/5.4.17
+SERVER_PROTOCOL => HTTP/1.1
+REQUEST_METHOD => POST
+REQUEST_TIME => 1462978114
+REQUEST_TIME_FLOAT => 1462978114.905
+QUERY_STRING => 
+DOCUMENT_ROOT => C:/usbwebserver/root
+HTTP_ACCEPT => text/html, */*; q=0.01
+HTTP_ACCEPT_CHARSET
+HTTP_ACCEPT_ENCODING => gzip, deflate
+HTTP_ACCEPT_LANGUAGE => es-MX,es-ES;q=0.8,es-AR;q=0.7,es;q=0.5,en-US;q=0.3,en;q=0.2
+HTTP_CONNECTION => keep-alive
+HTTP_HOST => www.apices.com.ve:8080
+HTTP_REFERER => http://www.apices.com.ve:8080/index.html
+HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 5.1; rv:37.0) Gecko/20100101 Firefox/37.0
+HTTPS
+REMOTE_ADDR => 186.95.73.144
+REMOTE_HOST
+REMOTE_PORT => 4043
+REMOTE_USER
+REDIRECT_REMOTE_USER
+SCRIPT_FILENAME => C:/usbwebserver/root/modulos/login.php
+SERVER_ADMIN => mail@localhost
+SERVER_PORT => 8080
+SERVER_SIGNATURE => 
+PATH_TRANSLATED
+SCRIPT_NAME => /modulos/login.php
+REQUEST_URI => /modulos/login.php
+PHP_AUTH_DIGEST
+PHP_AUTH_USER
+PHP_AUTH_PW
+AUTH_TYPE
+PATH_INFO
+ORIG_PATH_INFO
+
